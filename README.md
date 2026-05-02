@@ -1,4 +1,4 @@
-<h1>Hi, I'm Scieneaux! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, 
+<h1>Hi, I'm Scieneaux! 
   <a href="www.linkedin.com/in/scieneaux-jarmon-21ba502b6"></a>
 <h2>Certifications</h2>
   <h1>Comptia Security Plus</h1>
