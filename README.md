@@ -1,7 +1,7 @@
 <h1>Hi, I'm Scieneaux! 
   <a href="www.linkedin.com/in/scieneaux-jarmon-21ba502b6"></a>
 <h2>Certifications</h2>
-  <h1>Comptia Security Plus</h1>
+  <h3>Comptia Security Plus</h3>
 <h2>👨‍💻Cybersecurity Projects</h2>
 
 
