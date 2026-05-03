@@ -21,7 +21,7 @@ Alongside my professional experience, I’ve developed hands-on cybersecurity sk
 </p>
 
 <p>
-I’m focused on transitioning into a Security Operations Center (SOC) role where I can apply both my technical support background and cybersecurity training to threat detection, investigation, and incident response.
+I’m focused on transitioning into Cybersecurity where I can apply both my technical support background and cybersecurity training to threat detect, investigation, and incident response.
 </p>
 
 <hr>
