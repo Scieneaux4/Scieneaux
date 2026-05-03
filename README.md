@@ -9,20 +9,22 @@
 <h2>🧿 About Me</h2>
 
 <p>
-I’m an Information Science & Technology graduate with a minor in Cybersecurity, 
-focused on building real-world experience in threat detection, log analysis, 
-and incident response.
+<h2>📡 About</h2>
+
+<p>
+I’m an Information Science & Technology graduate with a minor in Cybersecurity, currently working as a Tier 2 Technical Support Analyst where I handle advanced troubleshooting across hardware, software, and network systems.
 </p>
 
 <p>
-I’ve worked with SIEM platforms like Microsoft Sentinel and Splunk to analyze 
-security events, investigate suspicious activity, and better understand how 
-attacks unfold in real environments.
+In my current role, I investigate system issues, analyze logs, and resolve technical problems that impact users and operations — building a strong foundation in identifying anomalies, understanding system behavior, and responding to incidents in real time.
 </p>
 
 <p>
-I’m currently working toward starting my career in a Security Operations Center (SOC) 
-and continuing to grow as a cybersecurity analyst.
+Alongside my professional experience, I’ve developed hands-on cybersecurity skills by working with SIEM platforms like Microsoft Sentinel and Splunk to monitor activity, detect suspicious behavior, and analyze security events.
+</p>
+
+<p>
+I’m focused on transitioning into a Security Operations Center (SOC) role where I can apply both my technical support background and cybersecurity training to threat detection, investigation, and incident response.
 </p>
 
 <hr>
