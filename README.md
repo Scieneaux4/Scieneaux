@@ -1,7 +1,7 @@
 <h1 align="center">Scieneaux 👋</h1>
 
 <p align="center">
-  Cybersecurity Focus | SOC Analyst Candidate
+  Cybersecurity Focused
 </p>
 
 <hr>
