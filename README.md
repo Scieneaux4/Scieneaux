@@ -21,8 +21,9 @@ Alongside my professional experience, I’ve developed hands-on cybersecurity sk
 </p>
 
 <p>
-I’m focused on transitioning into Cybersecurity where I can apply both my technical support background and cybersecurity training to threat detect, investigation, and incident response.
+I approach each project with the mindset of a security analyst, focusing on validating alerts, identifying indicators of compromise, and documenting findings with clear next steps. My goal is to build practical, job-ready experience that reflects real-world SOC workflows.
 </p>
+
 
 <hr>
 
