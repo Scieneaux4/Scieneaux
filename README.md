@@ -1,7 +1,7 @@
 <h1 align="center">Scieneaux 👋</h1>
 
 <p align="center">
-  Blue Team Focus | SIEM & Threat Analysis
+  Blue Team Focused | SIEM & Threat Analysis
 </p>
 
 <hr>
