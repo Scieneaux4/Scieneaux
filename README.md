@@ -35,6 +35,11 @@ I approach each project with the mindset of a security analyst, focusing on vali
 </p>
 
 <hr>
+<h2>📜 Certification</h2>
+
+<p align="center">
+  CompTIA Security+ certified
+</p>
 
 <h2>🌐 Connect with me</h2>
 <p align="center">
