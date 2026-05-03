@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2>🧠 About Me</h2>
+<h2>🧿 About Me</h2>
 
 <p>
 I’m an Information Science & Technology graduate with a minor in Cybersecurity, 
