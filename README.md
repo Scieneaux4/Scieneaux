@@ -9,9 +9,6 @@
 <h2>🧿 About Me</h2>
 
 <p>
-<h2>📡 About</h2>
-
-<p>
 I’m an Information Science & Technology graduate with a minor in Cybersecurity, currently working as a Tier 2 Technical Support Analyst where I handle advanced troubleshooting across hardware, software, and network systems.
 </p>
 
