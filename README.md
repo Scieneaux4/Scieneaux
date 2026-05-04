@@ -58,7 +58,7 @@ I approach each project with the mindset of a security analyst, focusing on vali
 </p>
 
 ### 🎓 Certifications
-- CompTIA Security+ (SY0-701) — 2026
-  ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+- CompTIA Security+ (SY0-701) — 2026-2029
+ 
 
 
