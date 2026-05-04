@@ -57,6 +57,8 @@ I approach each project with the mindset of a security analyst, focusing on vali
   <img src="https://img.shields.io/badge/Windows-Event%20Logs-0078D6" />
 </p>
 
+<hr>
+
 ### 🎓 Certifications
 - CompTIA Security+ (SY0-701) — 2026-2029
  
