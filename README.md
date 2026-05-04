@@ -49,7 +49,7 @@ I approach each project with the mindset of a security analyst, focusing on vali
 
 <p align="center">
   
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2>🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sentinel-SIEM-blue" />
