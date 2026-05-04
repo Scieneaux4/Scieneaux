@@ -30,7 +30,7 @@ I approach each project with the mindset of a security analyst, focusing on vali
 <h2>🚀 Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername/sentinel-threat-detection-lab">Sentinel Lab</a> •
+  <a href="https://github.com/Scieneaux4/sentinel-threat-detection-lab">Sentinel Lab</a> •
   <a href="https://github.com/yourusername">All Projects</a>
 </p>
 
