@@ -47,5 +47,12 @@ I approach each project with the mindset of a security analyst, focusing on vali
   </a>
 </p>
 
+### 🛠️ Tech Stack
+![Microsoft Sentinel](https://img.shields.io/badge/Sentinel-SIEM-blue)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black)
+![KQL](https://img.shields.io/badge/KQL-Query%20Language-purple)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4)
+![Windows Logs](https://img.shields.io/badge/Windows-Event%20Logs-0078D6)
+
 
 
